@@ -1,9 +1,6 @@
-# Romana_Python_Study
-Beginner projects and practice
-
-Building programs for studying and practice
-A few different versions of each program that I make
+# python_study
+Building simple projects for practice. Solving exercise problems.
 
 Check out my first projects:
-- [Roulette wheel](./roulette_wheel_project)
-
+- [roulette_full_game_project](./roulette_full_game_project)
+- [decision_paralysis_tools](./decision_paralysis_tools)
